@@ -1,0 +1,18 @@
+{
+  "name": "singingbowl",
+  "main": "./lib/singingbowl",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "singingbowl:toggle"
+  },
+  "repository": "https://github.com/atom/singingbowl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "tone": "^0.6.1"
+  }
+}
